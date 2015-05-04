@@ -13,7 +13,7 @@ neural network able to classify German traffic sign images (43 classes):
 * create an issue under your repo describing your approach,
 * report your result(s),
 * commit your code,
-* add a README for pre-requisites and usage,
+* edit the README with pre-requisites and usage,
 * boost accuracy by experimenting the multi-scale architecture,
 * compare with the results obtained in matching mode (i.e use the features with a distance-based search).
 
