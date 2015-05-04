@@ -9,7 +9,8 @@ Use [Torch](http://torch.ch/) to train and evaluate a 2-stage convolutional
 neural network able to classify German traffic sign images (43 classes):
 
 * fork the repository under your account,
-* create an issue describing your approach,
+* go to Settings > Features and enable Issues,
+* create an issue under your repo describing your approach,
 * report your result(s),
 * commit your code,
 * add a README for pre-requisites and usage,
